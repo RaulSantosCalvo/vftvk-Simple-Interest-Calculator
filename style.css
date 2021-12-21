@@ -1,4 +1,42 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    font-family: arial;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-family: verdana;
+    color: grey;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    align: center;
+    margin: 0 auto;
+    min-width: fit-content;
+}
+
+.content {
+    width: 300px;
+    margin: 15px auto;
+    min-width: fit-content;
+}
+
+table {
+    color: black;
+}
+
+table td {
+    padding: 5px;
+    padding-left: 0;
+}
+
+.highlight {
+    background-color: yellow;
+}
 
 
